@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "go-microservice",
+			"path": "."
+		}
+	],
+	"settings": {
+		"gopls": {
+			"experimentalWorkspaceModule": true,
+	}
+	}
+}
